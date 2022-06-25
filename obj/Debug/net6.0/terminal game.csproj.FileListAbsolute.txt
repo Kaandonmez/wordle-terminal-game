@@ -1,0 +1,15 @@
+C:\Users\kaan-\Desktop\terminal game\bin\Debug\net6.0\terminal game.exe
+C:\Users\kaan-\Desktop\terminal game\bin\Debug\net6.0\terminal game.deps.json
+C:\Users\kaan-\Desktop\terminal game\bin\Debug\net6.0\terminal game.runtimeconfig.json
+C:\Users\kaan-\Desktop\terminal game\bin\Debug\net6.0\terminal game.dll
+C:\Users\kaan-\Desktop\terminal game\bin\Debug\net6.0\terminal game.pdb
+C:\Users\kaan-\Desktop\terminal game\obj\Debug\net6.0\terminal game.csproj.AssemblyReference.cache
+C:\Users\kaan-\Desktop\terminal game\obj\Debug\net6.0\terminal game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\Desktop\terminal game\obj\Debug\net6.0\terminal game.AssemblyInfoInputs.cache
+C:\Users\kaan-\Desktop\terminal game\obj\Debug\net6.0\terminal game.AssemblyInfo.cs
+C:\Users\kaan-\Desktop\terminal game\obj\Debug\net6.0\terminal game.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\Desktop\terminal game\obj\Debug\net6.0\terminal game.dll
+C:\Users\kaan-\Desktop\terminal game\obj\Debug\net6.0\refint\terminal game.dll
+C:\Users\kaan-\Desktop\terminal game\obj\Debug\net6.0\terminal game.pdb
+C:\Users\kaan-\Desktop\terminal game\obj\Debug\net6.0\terminal game.genruntimeconfig.cache
+C:\Users\kaan-\Desktop\terminal game\obj\Debug\net6.0\ref\terminal game.dll
