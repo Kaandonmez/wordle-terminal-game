@@ -1,4 +1,5 @@
 # terminal-word-game
+(This project is the product of boredom on a very hot summer afternoon.)
 
 Extremely simple, terminal game developed with C#.
 
